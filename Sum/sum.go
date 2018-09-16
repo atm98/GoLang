@@ -10,5 +10,5 @@ func main() {
 	fmt.Scan(&num1)
 	fmt.Print("Enter Second Number:=")
 	fmt.Scan(&num2)
-	fmt.Print("The Sum of", num1, " and ", num2, " is:= ", num1+num2)
+	fmt.Print("The Sum of", num1, " and ", num2, " is:= gi", num1+num2)
 }
